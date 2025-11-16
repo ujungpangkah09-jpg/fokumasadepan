@@ -1,0 +1,15 @@
+{
+  "name": "FokusMasaDepan",
+  "short_name": "FokusMD",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#059669",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
